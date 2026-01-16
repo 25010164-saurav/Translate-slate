@@ -1,0 +1,8 @@
+flask
+flask-cors
+deep-translator
+transformers
+torch
+sentencepiece
+protobuf
+jupyter
